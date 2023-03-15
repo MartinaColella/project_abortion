@@ -87,3 +87,18 @@ Unlike you might expect, religion is not the main reason why doctors object to t
 
   3. **Economical**
     - Abortion is not a practise that can be paid privately in public hospitals
+    
+## 5. Next steps    
+
+
+## 6. Sources
+  - Istat : https://www.google.com/url?q=http://dati.istat.it/Index.aspx?DataSetCode%3DDCIS_ABORTISPONTR&sa=D&source=editors&ust=1678896713733918&usg=AOvVaw2ZDPdq_ItJpU1re2Yfn-D9
+  - ISS : https://www.epicentro.iss.it/ivg/
+  - Law 194 : https://www.tpi.it/salute/legge-aborto-italia-cosa-prevede-20180522122057/
+  - 70% gynecologists are objectors : https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2017/02/22/aborto-in-italia-7-ginecologi-su-10-sono-obiettori_8e057fe0-efcf-4305-8c87-26a6bf6a946c.html
+  - Molise in 2021 : https://www.ilpost.it/2021/07/27/molise-obiezione-coscienza-aborto/ 
+  -  Molise in 2022 : https://www.ilfattoquotidiano.it/2021/12/27/aborto-dal-1-gennaio-2022-in-molise-resta-un-unico-medico-non-obiettore-concorso-deserto/6437962/
+  - Poll (reasons for objecting): https://www.ilpost.it/2021/03/29/aborto-obiezione-coscienza-italia/#:~:text=Alcuni%20medici%20ad%20esempio%20diventano,dai%20medici%20pratiche%20poco%20gratificanti.
+
+
+
