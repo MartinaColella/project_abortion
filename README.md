@@ -90,6 +90,9 @@ Unlike you might expect, religion is not the main reason why doctors object to t
     
 ## 5. Next steps    
 
+  1. Dive into regional Analysis also regarding the type of abortions.
+  2. How does politics affects accessibility and safety ? 
+  3. Comparison with other European Countries 
 
 ## 6. Sources
   - Istat : https://www.google.com/url?q=http://dati.istat.it/Index.aspx?DataSetCode%3DDCIS_ABORTISPONTR&sa=D&source=editors&ust=1678896713733918&usg=AOvVaw2ZDPdq_ItJpU1re2Yfn-D9
