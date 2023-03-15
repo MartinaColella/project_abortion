@@ -1,4 +1,4 @@
-# project_abortion
+# Abortion in Italy (2012 - 2021)
 Final project for the graduation at Spiced Academy. Analysis of abortions trends and accessibility in Italy in the past 10 years 
 
 ## Agenda
